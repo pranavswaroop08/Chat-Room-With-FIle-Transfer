@@ -1,6 +1,5 @@
 # Chat-Room-With-FIle-Transfer
-Multi-Protocol Chat & File Transfer
-System
+
 A comprehensive collection of Python scripts for TCP, SSL/TLS, and SSH
 communications.
 
